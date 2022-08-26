@@ -1,4 +1,4 @@
-cmake_minimum_version(VERSION 3.13)
+cmake_minimum_required(VERSION 3.13)
 add_library( Mod1 STATIC
     hello.cpp
 )
