@@ -2,5 +2,5 @@ CMakeのサンプル
 
 以下のコマンドでビルドできる
 
-$ cmake . -B build
+$ cmake . -B build<br>
 $ cmake --build build
